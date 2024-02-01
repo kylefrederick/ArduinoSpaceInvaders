@@ -14,7 +14,7 @@
 /*
  * Push buttons
  */
-#define    2
+#define LEFT_PIN  2
 #define RIGHT_PIN 4
 #define FIRE_PIN 7
 
